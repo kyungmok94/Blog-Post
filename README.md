@@ -32,5 +32,11 @@ For three questions, we have reached the following conclusion.
 
 Finally, readme format:
 
-- Libraries used: Numpy, Panda, Matplotlib and Seaborn
-Summary of analysis results: After all, we concluded that North America is the best choice.
+-Used libraries: Numpy, Panda, Matplotlib, and Seaborn
+
+-Motivation for the project: Recently, the number of immigrants has increased, and I wanted to analyze the data where it's good.
+ 
+ I included a zip file in the survey_results_public.csv file used as a dataset. Also, the code file is Blog_post.ipynb and is summarized briefly in README.
+
+Blog linke here
+https://kyungmok.medium.com/%EB%AF%B8%EA%B5%AD%EC%9D%B4-%EC%9C%A0%EB%9F%BD%EB%B3%B4%EB%8B%A4-%EC%9D%B4%EB%AF%BC%EA%B0%80%EA%B8%B0%EC%97%90-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EA%B3%B3%EC%9D%B8%EA%B0%80-da455c6c2585
